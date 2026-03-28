@@ -39,12 +39,12 @@ python ids_final.py
 
 ## Project Structure
 
-IDS_Project/
-│
+
+
 ├── ids_final.py
 ├── ids_logs.db
 ├── ids_log.txt
-└── README.md
+
 
 ## Use Case
 
